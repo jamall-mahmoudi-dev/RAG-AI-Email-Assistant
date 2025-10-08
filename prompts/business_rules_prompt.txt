@@ -1,0 +1,4 @@
+Ensure the reply is structured:
+1. Address key points in the email
+2. Provide a clear solution or answer
+3. Keep each paragraph under 3 sentences
